@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637744247 source:/home/etudiants/caronne2/Documents/Programmation et Algorithmique/Projetalgo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637744112 source:/home/etudiants/caronne2/Documents/Programmation et Algorithmique/Projetalgo/methode-ziv-lempel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637740393 source:/home/etudiants/caronne2/Documents/Programmation et Algorithmique/Projetalgo/table-acii.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
